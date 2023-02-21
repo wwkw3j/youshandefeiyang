@@ -9999,3 +9999,5 @@ http://192.168.5.227:35455/bilibili/26486595?line=first
 http://192.168.5.227:35455/bilibili/3502807?line=first
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/379ee41f6900c79effb15b434e10ae822ab2abcf.jpg" group-title="第五人格", 骆盏Z明夜载
 http://192.168.5.227:35455/bilibili/10904416?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/379ee41f6900c79effb15b434e10ae822ab2abcf.jpg" group-title="我的关注", 菠萝赛东
+http://192.168.5.227:35455/bilibili/5520?line=first
