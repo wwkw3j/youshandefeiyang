@@ -1,3 +1,79 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="Youtube",平靜祥和的咖啡廳鋼琴曲
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
+http://192.168.5.227:35455/youtube/ni1CxDStx0Y
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Lion Family1
+http://192.168.5.227:35455/youtube/sVdK58zevh4
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Wolfoo's stories
+http://192.168.5.227:35455/youtube/Qxx9CEl_BWY
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", CANDY CRUSH
+http://192.168.5.227:35455/youtube/h3CUdwVedj8
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Hogi! Pinkfong - Learn & Play
+http://192.168.5.227:35455/youtube/vOGa-FEAdpo
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Antiks Cartoons
+http://192.168.5.227:35455/youtube/mpjdhLYapQI
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Loco Nuts - Cartoon Videos
+http://192.168.5.227:35455/youtube/KVIIHemueIs
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Get Movies - Funny cartoons for kids
+http://192.168.5.227:35455/youtube/TlNO7pJ4jpU
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Baby Shark Doo Doo Doo
+http://192.168.5.227:35455/youtube/R9IceVKKBp4
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Talking Tom Heroes Adventures
+http://192.168.5.227:35455/youtube/DPjvJNFDmQM
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Booba
+http://192.168.5.227:35455/youtube/S2A0_HaEQgQ
+#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oko Lele
+http://192.168.5.227:35455/youtube/QNZbuNyerqM
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 平靜祥和的咖啡廳鋼琴曲
 http://192.168.5.227:35455/youtube/cK4LemjoFd0
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", ALL THE K-POP
+http://192.168.5.227:35455/youtube/0-RirLdUYEE
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP
+http://192.168.5.227:35455/youtube/F4aby5WN1Rw
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP2
+http://192.168.5.227:35455/youtube/WLnbJqx_J2E
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Cafe Music BGM channel
+http://192.168.5.227:35455/youtube/lWk47nfmVzQ
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Green Music BGM channel
+http://192.168.5.227:35455/youtube/yC36HpckTKU
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Hawaiian BGM channel
+http://192.168.5.227:35455/youtube/4bmMiocAhvk
+#EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Nature Relax 4K
+http://192.168.5.227:35455/youtube/6dui0O92UAE
+#EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailWay
+http://192.168.5.227:35455/youtube/r0wVvtE3iYQ
+#EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailCowGirl
+http://192.168.5.227:35455/youtube/lx5vVGxusnc
+#EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", Justice Pao
+http://192.168.5.227:35455/youtube/PY7a4qVNmgI
+#EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", GTV DRAMA
+http://192.168.5.227:35455/youtube/enfzhjNw3M8
+#EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", FTV DRAMA
+http://192.168.5.227:35455/youtube/1kzVPwTeKds
+#EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CTS SHOW
+http://192.168.5.227:35455/youtube/pn_0gm9gztM
+#EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Faintv VARIETY1
+http://192.168.5.227:35455/youtube/odqce-p_cjA
+#EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Faintv VARIETY2
+http://192.168.5.227:35455/youtube/etFu1XECKMs
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTITV News
+http://192.168.5.227:35455/youtube/_QbRXRnHMVY
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", EBC
+http://192.168.5.227:35455/youtube/R2iMq5LKXco
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", EBC Financial
+http://192.168.5.227:35455/youtube/WHEPzbFA3hw
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS Global News
+http://192.168.5.227:35455/youtube/ldT13IPpgaY
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Global News TV
+http://192.168.5.227:35455/youtube/1baN3SZYWc0
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", mnews
+http://192.168.5.227:35455/youtube/5n0y6b0Q25o
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TTV News
+http://192.168.5.227:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTV News
+http://192.168.5.227:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Tzu Chi DaAiVideo
+http://192.168.5.227:35455/youtube/MIqUplvSRWA
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET+ Live News
+http://192.168.5.227:35455/youtube/jlldIiGA5bU
+#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SET iNEWS
+http://192.168.5.227:35455/youtube/CKjSm5ZeehE
